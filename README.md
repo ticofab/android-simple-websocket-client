@@ -1,4 +1,4 @@
-android-simple-websocket-client
+Simple Android Websocket Client
 ======================
 
 This is a very simple WebSocket client for Android. It requires this [library](https://github.com/koush/android-websockets).
